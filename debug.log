@@ -1,0 +1,806 @@
+----------------------------------------------
+CRASH: Wed May  4 12:04:57 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 0.0.0.0 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016
+----------------------------------------------
+CRASH: Wed May  4 14:23:37 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 0.0.0.0 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016
+----------------------------------------------
+CRASH: Fri May  6 13:50:27 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 0.0.0.0 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016
+----------------------------------------------
+CRASH: Fri May  6 18:46:47 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 0.0.0.0 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016
+----------------------------------------------
+CRASH: Fri May  6 21:47:17 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 0.0.0.0 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat May  7 21:57:48 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 0.0.0.0 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016
+----------------------------------------------
+CRASH: Sun May  8 21:04:51 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 0.0.0.0 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016
+----------------------------------------------
+CRASH: Wed May 11 07:45:45 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 0.0.0.0 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016
+----------------------------------------------
+CRASH: Fri May 13 06:19:01 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 0.0.0.0 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016
+----------------------------------------------
+CRASH: Mon May 16 17:36:06 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 0.0.0.0 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016
+----------------------------------------------
+CRASH: Wed May 18 15:25:03 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 0.0.0.0 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016
+----------------------------------------------
+CRASH: Sat May 21 13:47:37 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 0.0.0.0 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016
+----------------------------------------------
+CRASH: Sat May 21 22:59:47 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 0.0.0.0 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016
+----------------------------------------------
+CRASH: Thu May 26 15:45:44 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 0.0.0.0 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016
+----------------------------------------------
+CRASH: Tue May 31 17:03:23 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 0.0.0.0 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016
+----------------------------------------------
+CRASH: Fri Jun  3 13:35:36 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 0.0.0.0 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016
+----------------------------------------------
+CRASH: Fri Jun  3 20:04:00 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 0.0.0.0 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016
+----------------------------------------------
+CRASH: Fri Jun  3 20:07:59 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 0.0.0.0 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016
+----------------------------------------------
+CRASH: Fri Jun  3 20:12:29 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 0.0.0.0 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016
+----------------------------------------------
+CRASH: Fri Jun  3 23:00:09 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 0.0.0.0 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016
+----------------------------------------------
+CRASH: Fri Jun  3 23:16:42 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 0.0.0.0 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016
+----------------------------------------------
+CRASH: Sat Jun  4 01:51:39 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 0.0.0.0 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016
+----------------------------------------------
+CRASH: Sat Jun  4 14:14:20 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 0.0.0.0 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016
+----------------------------------------------
+CRASH: Sun Jun  5 16:23:17 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 0.0.0.0 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016
+----------------------------------------------
+CRASH: Sun Jun  5 17:55:54 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 0.0.0.0 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016
+----------------------------------------------
+CRASH: Sun Jun  5 19:08:10 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 0.0.0.0 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016
+----------------------------------------------
+CRASH: Sun Jun  5 19:28:02 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 0.0.0.0 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016
+----------------------------------------------
+CRASH: Sun Jun  5 19:45:15 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 0.0.0.0 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016
+----------------------------------------------
+CRASH: Sun Jun  5 20:44:01 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 0.0.0.0 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016
+----------------------------------------------
+CRASH: Sun Jun  5 22:03:04 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 0.0.0.0 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016
+----------------------------------------------
+CRASH: Sun Jun  5 22:18:06 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 0.0.0.0 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016
+----------------------------------------------
+CRASH: Sun Jun  5 22:27:50 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 0.0.0.0 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016
+----------------------------------------------
+CRASH: Mon Jun  6 01:35:07 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 0.0.0.0 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016
+----------------------------------------------
+CRASH: Mon Jun  6 10:43:23 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 0.0.0.0 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016
+----------------------------------------------
+CRASH: Mon Jun  6 14:24:53 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 0.0.0.0 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016
+----------------------------------------------
+CRASH: Mon Jun  6 14:55:20 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 0.0.0.0 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016
+----------------------------------------------
+CRASH: Thu Jun  9 12:51:54 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 0.0.0.0 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jun 11 08:03:05 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 0.0.0.0 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016
+----------------------------------------------
+CRASH: Sun Jun 12 01:11:28 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 0.0.0.0 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016
+----------------------------------------------
+CRASH: Sun Jun 12 01:14:58 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 0.0.0.0 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016
+----------------------------------------------
+CRASH: Sun Jun 12 16:35:47 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 0.0.0.0 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016
+----------------------------------------------
+CRASH: Wed Jun 15 15:25:56 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 0.0.0.0 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016
+----------------------------------------------
+CRASH: Wed Jun 15 18:56:50 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 0.0.0.0 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016
+----------------------------------------------
+CRASH: Thu Jun 16 20:08:19 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 0.0.0.0 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016
+----------------------------------------------
+CRASH: Fri Jun 17 02:08:33 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016
+----------------------------------------------
+CRASH: Fri Jun 17 10:39:13 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016
+----------------------------------------------
+CRASH: Fri Jun 17 16:15:26 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016
+----------------------------------------------
+CRASH: Sat Jun 18 05:45:20 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016
+----------------------------------------------
+CRASH: Sat Jun 18 11:11:54 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016
+----------------------------------------------
+CRASH: Sun Jun 19 07:30:29 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016
+----------------------------------------------
+CRASH: Mon Jun 20 21:15:32 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016
+----------------------------------------------
+CRASH: Wed Jun 22 05:57:11 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016
+----------------------------------------------
+CRASH: Thu Jun 23 10:55:24 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016
+----------------------------------------------
+CRASH: Thu Jun 23 13:07:46 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016
+----------------------------------------------
+CRASH: Thu Jun 23 22:02:36 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016
+----------------------------------------------
+CRASH: Fri Jun 24 00:21:06 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016
+----------------------------------------------
+CRASH: Fri Jun 24 10:07:33 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016
+----------------------------------------------
+CRASH: Thu Jun 30 05:02:50 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016
+----------------------------------------------
+CRASH: Fri Jul  1 12:56:55 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016
+----------------------------------------------
+CRASH: Sat Jul  2 03:20:01 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.6948.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul  2 06:09:12 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.6948.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul  2 16:20:51 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.6948.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul  2 17:55:18 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.6948.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul  2 23:56:14 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.6948.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sun Jul  3 17:26:06 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.6948.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sun Jul  3 18:37:27 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.6948.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Mon Jul  4 05:22:03 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.6948.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Thu Jul  7 21:51:11 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.825.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul  9 22:21:24 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.825.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Mon Jul 11 20:36:30 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.825.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Wed Jul 13 20:57:25 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.825.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Fri Jul 15 23:08:18 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.24628.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:06:26 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9305.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:06:38 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9305.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:06:49 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9305.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:07:01 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9305.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:07:12 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9305.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:07:32 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:07:43 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:07:54 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:08:06 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:08:17 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:08:29 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:08:40 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:08:52 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:09:03 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:09:15 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:09:26 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:09:38 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:09:49 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:10:00 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:10:12 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:10:23 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:10:35 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:10:46 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:10:57 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:11:09 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:11:20 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:11:32 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:11:43 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:11:55 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:12:06 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:12:17 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:12:29 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:12:40 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:12:52 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:13:03 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:13:15 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:13:26 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:13:38 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:13:49 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:14:01 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:14:12 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:14:24 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:14:35 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:14:47 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:14:58 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:15:10 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:15:21 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:15:32 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:15:44 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:15:55 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:16:07 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:16:18 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:16:30 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:16:41 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:16:53 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:17:04 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:17:16 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:17:27 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:17:39 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:17:50 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:18:01 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:18:13 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:18:24 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:18:35 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:18:47 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:18:58 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:19:10 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:19:21 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:19:33 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:19:44 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:19:55 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:20:07 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:20:18 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:20:30 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:20:41 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:20:53 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:21:04 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:21:16 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 16 21:21:27 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.9427.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Mon Jul 18 05:56:46 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.10339.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Tue Jul 19 15:27:40 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.10339.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Thu Jul 21 09:40:37 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.1666.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Thu Jul 21 09:42:47 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.1666.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Fri Jul 22 09:50:44 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.5739.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Fri Jul 22 09:51:51 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.20106.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Fri Jul 22 09:53:27 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.20170.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Fri Jul 22 09:53:51 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.20170.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Fri Jul 22 09:57:35 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.20170.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Fri Jul 22 09:58:01 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.20170.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 23 17:11:51 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.20170.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Mon Jul 25 02:07:19 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.20170.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Tue Jul 26 09:54:21 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.20170.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Wed Jul 27 20:14:55 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.20170.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Jul 30 10:15:03 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.29566.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sun Jul 31 18:27:12 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.29566.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Aug  6 03:15:32 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.12124.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Aug  6 17:24:11 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.12124.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Mon Aug  8 07:30:07 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.1137.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Tue Aug  9 19:06:30 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.1137.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Thu Aug 11 03:26:41 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.1137.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Aug 13 12:29:33 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.20504.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Mon Aug 15 01:59:12 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.20504.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Tue Aug 23 09:46:22 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.868.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Wed Aug 24 00:42:43 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.868.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Thu Aug 25 08:47:33 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.868.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Thu Aug 25 19:43:13 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.868.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Aug 27 03:53:16 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.868.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sun Aug 28 11:41:22 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.868.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sun Aug 28 13:02:00 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.868.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sun Aug 28 13:09:50 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.868.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sun Aug 28 16:38:42 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.868.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sun Aug 28 16:39:48 +05 2022
+Start Line: ./hlds_linux -game cstrike -console +ip 178.218.207.75 +maxplayers 32 +map de_dust2 -secure -sv_lan 0 -autoupdate -port 27016 -debug -pidfile hlds.868.pid
+End of crash report
+----------------------------------------------

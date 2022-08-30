@@ -1,0 +1,176 @@
+L 04/05/2022 - 12:04:57: (map "de_dust2") PF_MessageBegin_I: Tried to create a message with a bogus message type ( 0 )
+L 06/05/2022 - 13:50:26: (map "de_dust2") SV_ModelIndex: SV_ModelIndex: model models/LVG2-KNIFE/v_knife_1.mdl not precached
+L 06/05/2022 - 18:46:47: (map "de_dust2") SV_ModelIndex: SV_ModelIndex: model models/LVG2-KNIFE/v_knife_1.mdl not precached
+L 06/05/2022 - 21:47:17: (map "de_dust2") Mod_LoadModel: sprites/mode/wall.spr not found
+L 03/06/2022 - 20:04:00: (map "de_nuke") PF_MessageBegin_I: New message started when msg '77' has not been sent yet
+L 03/06/2022 - 20:07:59: (map "de_inferno") PF_MessageBegin_I: New message started when msg '77' has not been sent yet
+L 03/06/2022 - 20:12:29: (map "de_dust2") PF_MessageBegin_I: New message started when msg '77' has not been sent yet
+L 05/06/2022 - 17:55:54: (map "de_nuke") PF_MessageBegin_I: New message started when msg '77' has not been sent yet
+L 05/06/2022 - 19:08:10: (map "de_dust2") PF_MessageBegin_I: New message started when msg '77' has not been sent yet
+L 05/06/2022 - 19:28:01: (map "awp_lego_2") PF_MessageBegin_I: New message started when msg '77' has not been sent yet
+L 05/06/2022 - 19:45:14: (map "de_dust2") PF_MessageBegin_I: New message started when msg '77' has not been sent yet
+L 05/06/2022 - 20:44:00: (map "de_dust2") PF_MessageBegin_I: New message started when msg '77' has not been sent yet
+L 05/06/2022 - 22:03:04: (map "de_dust2") PF_MessageBegin_I: New message started when msg '77' has not been sent yet
+L 05/06/2022 - 22:18:06: (map "de_dust2") PF_MessageBegin_I: New message started when msg '77' has not been sent yet
+L 05/06/2022 - 22:27:49: (map "de_dust2") PF_MessageBegin_I: New message started when msg '77' has not been sent yet
+L 06/06/2022 - 01:35:07: (map "de_dust2") PF_MessageBegin_I: New message started when msg '77' has not been sent yet
+L 06/06/2022 - 10:43:23: (map "de_dust2") PF_MessageBegin_I: New message started when msg '77' has not been sent yet
+L 12/06/2022 - 01:11:28: (map "de_dust2") PF_MessageBegin_I: New message started when msg '77' has not been sent yet
+L 12/06/2022 - 01:14:58: (map "de_dust2") PF_MessageBegin_I: New message started when msg '77' has not been sent yet
+L 15/06/2022 - 15:25:56: (map "de_torn") Host_Error: ED_ParseEdict: Model '*297' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 15/06/2022 - 18:56:50: (map "de_torn") Host_Error: ED_ParseEdict: Model '*297' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 16/06/2022 - 20:08:19: (map "de_torn") Host_Error: ED_ParseEdict: Model '*297' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 17/06/2022 - 02:08:33: (map "de_torn") Host_Error: ED_ParseEdict: Model '*297' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 17/06/2022 - 10:39:13: (map "de_torn") Host_Error: ED_ParseEdict: Model '*297' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 17/06/2022 - 16:15:26: (map "de_torn") Host_Error: ED_ParseEdict: Model '*297' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 18/06/2022 - 05:45:20: (map "de_torn") Host_Error: ED_ParseEdict: Model '*297' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 18/06/2022 - 11:11:53: (map "de_torn") Host_Error: ED_ParseEdict: Model '*297' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 19/06/2022 - 07:30:28: (map "de_torn") Host_Error: ED_ParseEdict: Model '*297' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 22/06/2022 - 05:57:11: (map "de_torn") Host_Error: ED_ParseEdict: Model '*297' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 23/06/2022 - 13:07:46: (map "de_torn") Host_Error: ED_ParseEdict: Model '*297' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 23/06/2022 - 22:02:36: (map "de_torn") Host_Error: ED_ParseEdict: Model '*297' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 24/06/2022 - 00:21:06: (map "de_torn") Host_Error: ED_ParseEdict: Model '*297' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 24/06/2022 - 10:07:33: (map "de_torn") Host_Error: ED_ParseEdict: Model '*297' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 30/06/2022 - 05:02:50: (map "de_torn") Host_Error: ED_ParseEdict: Model '*297' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 01/07/2022 - 12:56:55: (map "de_torn") Host_Error: ED_ParseEdict: Model '*297' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 02/07/2022 - 03:20:01: (map "de_torn") Host_Error: ED_ParseEdict: Model '*297' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 02/07/2022 - 06:09:12: (map "de_torn") Host_Error: ED_ParseEdict: Model '*297' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 02/07/2022 - 16:20:51: (map "de_torn") Host_Error: ED_ParseEdict: Model '*297' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 02/07/2022 - 17:55:18: (map "de_torn") Host_Error: ED_ParseEdict: Model '*297' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 02/07/2022 - 23:56:14: (map "de_torn") Host_Error: ED_ParseEdict: Model '*297' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 03/07/2022 - 17:26:06: (map "de_torn") Host_Error: ED_ParseEdict: Model '*297' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 03/07/2022 - 18:37:27: (map "de_torn") Host_Error: ED_ParseEdict: Model '*297' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 04/07/2022 - 05:22:03: (map "de_torn") Host_Error: ED_ParseEdict: Model '*297' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 16/07/2022 - 21:06:26: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:06:38: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:06:49: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:07:01: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:07:12: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:07:32: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:07:43: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:07:54: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:08:06: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:08:17: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:08:29: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:08:40: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:08:52: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:09:03: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:09:15: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:09:26: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:09:37: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:09:49: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:10:00: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:10:12: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:10:23: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:10:34: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:10:46: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:10:57: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:11:09: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:11:20: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:11:32: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:11:43: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:11:55: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:12:06: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:12:17: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:12:29: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:12:40: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:12:52: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:13:03: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:13:15: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:13:26: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:13:38: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:13:49: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:14:01: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:14:12: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:14:24: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:14:35: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:14:47: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:14:58: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:15:10: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:15:21: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:15:32: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:15:44: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:15:55: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:16:07: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:16:18: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:16:30: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:16:41: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:16:53: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:17:04: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:17:16: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:17:27: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:17:39: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:17:50: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:18:01: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:18:13: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:18:24: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:18:35: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:18:47: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:18:58: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:19:10: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:19:21: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:19:33: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:19:44: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:19:55: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:20:07: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:20:18: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:20:30: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:20:41: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:20:53: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:21:04: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:21:16: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 16/07/2022 - 21:21:27: (map "de_dust2") Mod_LoadModel: models/custom/v_ak47.mdl not found
+L 24/08/2022 - 00:42:43: (map "de_dust2") SV_ModelIndex: SV_ModelIndex: model models/Knife/KARAMBIT/v_knife.mdl not precached
+L 25/08/2022 - 19:43:13: (map "de_dust2") SV_ModelIndex: SV_ModelIndex: model models/Knife/BAYONETM9/v_knife.mdl not precached
+L 28/08/2022 - 13:02:00: (map "de_nuke") SV_ModelIndex: SV_ModelIndex: model models/Knife/KARAMBIT/v_knife.mdl not precached
+L 28/08/2022 - 13:09:50: (map "de_dust2") SV_ModelIndex: SV_ModelIndex: model models/Knife/BAYONETM9/v_knife.mdl not precached
+L 28/08/2022 - 16:38:42: (map "de_dust2") SV_ModelIndex: SV_ModelIndex: model models/Knife/BOWIE/v_knife.mdl not precached
+L 28/08/2022 - 16:39:48: (map "de_dust2") SV_ModelIndex: SV_ModelIndex: model models/Knife/KARAMBIT/v_knife.mdl not precached

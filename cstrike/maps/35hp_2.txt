@@ -1,0 +1,5 @@
+Map name: 35hp_2.
+Version map: Counter Strike 1.6
+Category: Knife
+
+Download from cs-site.ru (rus).
